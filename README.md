@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate and dedicated 3rd-year **Control and Automation Engineering** student at **Yıldız Technical University (YTÜ)** in Istanbul, Turkey 🇹🇷.
+I'm a passionate and dedicated 4rd-year **Control and Automation Engineering** student at **Yıldız Technical University (YTÜ)** in Istanbul, Turkey 🇹🇷.
 
 My core interest lies strongly in the field of industrial automation, and I particularly **love PLC (Programmable Logic Controller) programming**. I find immense satisfaction in designing, implementing, and debugging control logic that brings automated systems to life. I am actively seeking opportunities and knowledge to **deepen my expertise in PLCs** and related automation technologies.
 
